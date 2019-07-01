@@ -1,1 +1,1 @@
-# c_to_f
+# This is a program for calculating F from C.
